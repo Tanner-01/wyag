@@ -13,6 +13,5 @@ import zlib #another comment
 
 
 def main():
-<<<<<<< Updated upstream
         #test comment
         print("hello world!")
