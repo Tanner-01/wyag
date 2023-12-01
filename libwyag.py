@@ -13,9 +13,5 @@ import zlib #another comment
 
 
 def main():
-<<<<<<< Updated upstream
-        # Test comment 2
-=======
-        # Test comment 3
->>>>>>> Stashed changes
+        # Test comment 3 
         print("hello world!")
